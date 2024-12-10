@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Dinh Van</ho>
+      <ten>Duy</ten>
+    </hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>27 Hang bai, Ha noi</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Xich Van</ho>
+      <ten>Lo</ten>
+    </hoten>
+    <gioitinh>Nữ</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>246A pho ba trieu</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>
+      <ho>Dinh</ho>
+      <ten>Van</ten>
+    </hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>AAAAAAAA</diachi>
+  </nhanvien>
+</ds>
